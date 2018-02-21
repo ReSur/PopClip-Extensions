@@ -1,0 +1,1 @@
+# Generate QR Code using 'http://s.jiathis.com/qrcode.php?url=' instead of Google charts which is blocked in China
